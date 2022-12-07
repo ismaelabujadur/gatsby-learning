@@ -15,6 +15,8 @@ module.exports = {
         name: `blog`,
         path: `${__dirname}/blog`
       }
-    }
+    },
+    "gatsby-plugin-mdx",
+    "gatsby-remark-images"
   ],
 }
